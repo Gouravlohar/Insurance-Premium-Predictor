@@ -21,6 +21,10 @@ if nav=="About":
     p {
        font-family: 'Tilt Neon', sans-serif;
     }
+    img {
+    max-width: 100%;
+    height: auto;
+}
 </style>
     <p 
     style="text-align: justify;
