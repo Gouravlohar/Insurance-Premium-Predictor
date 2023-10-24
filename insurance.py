@@ -24,7 +24,7 @@ if nav=="About":
 </style>
     <p 
     style="text-align: justify;
-    color: #000;">In today's 
+    ">In today's 
     fast-paced 
     world, 
     staying ahead in the game of life requires not just good health, but also financial security. Health insurance plays a pivotal role in ensuring that you and your family are protected from the financial burden of unexpected medical expenses. However, choosing the right health insurance plan can be a complex and sometimes daunting task. That's where the Health Insurance Premium Predictor comes in – a user-friendly and highly intuitive app designed to empower you with the information you need to make informed decisions about your health insurance coverage.</p>"""
