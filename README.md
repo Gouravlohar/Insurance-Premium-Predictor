@@ -8,7 +8,7 @@ This project is a web application built with Python and Streamlit, aimed at pred
 - Provides interactive visualizations to help users understand the impact of different factors on insurance premiums.
 - Streamlit Cloud deployment ensures accessibility from anywhere with an internet connection.
 
-## Usage
+## Usage 
 
 To use the application, simply visit [Insurance Premium Predictor](https://premiumpredictor.streamlit.app/) and follow these steps:
 
